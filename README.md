@@ -39,9 +39,9 @@
 <h2 align="left">:heart: Let's get connected:</h2>
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Manar_Ashraf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manar-ashraf/)](https://www.linkedin.com/in/manar-ashraf-63b556293/) 
-[![GitHub Badge](https://img.shields.io/badge/-ManarAshraf-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/ManarAshraf)](https://github.com/ManarAshraf) 
+[![GitHub Badge](https://img.shields.io/badge/-ManarAshraf-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/ManarAshraf)](https://github.com/Manar-Ashraf20) 
 [![Email Badge](https://img.shields.io/badge/-manar.ashraf@email.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manar.ashraf@email.com)](mailto:manar.radwan.ds@gmail.com)
-[![Kaggle Badge](https://img.shields.io/badge/-ManarAshraf-20BEFF?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/manarashraf)](https://www.kaggle.com/manarashraf)
+[![Kaggle Badge](https://img.shields.io/badge/-ManarAshraf-20BEFF?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/manarashraf)](https://www.kaggle.com/manarashraf0068)
 
 <!-- Optional: Add a footer -->
 <br>
